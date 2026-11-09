@@ -7,7 +7,7 @@ Fundador de **[Nuvlo](https://nuvloapp.com)**. Vivo en Argentina.
 **Nuvlo** es una herramienta que te arma los reportes de tus anuncios de Meta Ads con IA, para que entiendas qué funciona sin pelearte con planillas.
 
 - 🌐 Web: [nuvloapp.com](https://nuvloapp.com)
-- 📸 Instagram: [@nuvlo_app](https://instagram.com/nuvlo_app)
+- 📸 Instagram: [@nuvloapp](https://instagram.com/nuvloapp)
 
 ## Cómo trabajo
 
@@ -17,4 +17,4 @@ Fundador de **[Nuvlo](https://nuvloapp.com)**. Vivo en Argentina.
 
 ## Hablemos
 
-Si te interesa Nuvlo o querés charlar de anuncios y negocios chicos, escribime por [Instagram](https://instagram.com/nuvlo_app) o desde la [web](https://nuvloapp.com).
+Si te interesa Nuvlo o querés charlar de anuncios y negocios chicos, escribime por [Instagram](https://instagram.com/nuvloapp) o desde la [web](https://nuvloapp.com).
